@@ -1,0 +1,8 @@
+hash_program
+*.o
+*.out
+*.swp
+*~
+*.tmp
+*.bak
+/build/
